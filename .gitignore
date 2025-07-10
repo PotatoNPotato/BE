@@ -17,3 +17,11 @@ __pycache__/
 # 시스템 파일
 .DS_Store
 Thumbs.db
+
+.ngrok
+.yml
+.swp
+.swo
+
+# 환경변수
+.env
