@@ -2,7 +2,7 @@
 
 # 1. FastAPI 불러오기
 from fastapi import FastAPI
-
+from backend.analyze import router as analyze_router
 # 2. FastAPI 앱 객체 생성
 app = FastAPI()
 
